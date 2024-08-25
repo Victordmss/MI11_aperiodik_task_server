@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "serialio.h": "c",
+        "noyau_prio.h": "c"
+    }
+}
